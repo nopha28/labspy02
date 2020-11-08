@@ -1,5 +1,5 @@
 # Pertemuan 7 - labspy
-Repository ini dibuat memenuhi tugas pertemuan 7 Bahasa Pemograman (modul praktikum 2) - Teknik Infotatika <br><br>
+Repository ini dibuat memenuhi tugas pertemuan 7 Bahasa Pemograman (modul praktikum 2) - Teknik Informatika <br><br>
 
 ### Menentukan Bilangan Terbesar Dari Nilai Yang Diinputkan 
  > Pada pertemuan ke-7 ini saya mendapatkan tugas dari Dosen bahasa pemograman Teknik Informatika - Universitas Pelita Bangsa. Untuk membuat aplikasi yang menentukan bilangan terbesar dari tiga nilai yang client/user inputkan menggunakan bahasa program python.
